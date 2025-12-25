@@ -1,0 +1,11 @@
+[project]
+name = "tabnet-method"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pmlb>=1.0.1.post3",
+    "pytorch-tabnet>=4.1.0",
+    "scikit-learn>=1.7.2",
+]
