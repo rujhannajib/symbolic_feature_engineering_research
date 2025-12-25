@@ -1,0 +1,13 @@
+[project]
+name = "new-method"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "gplearn>=0.4.2",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pmlb>=1.0.1.post3",
+    "scikit-learn==1.5.2",
+]
